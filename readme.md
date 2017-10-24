@@ -1,27 +1,28 @@
-## What is this?
+## Marv Loves Snack
+---
 
-Just you wait folks!
 
-## Sample Data
+_A Restaurant App Built in Node JS._
 
-To load sample data, run the following command in your terminal:
+### More About
+---
 
-```bash
-npm run sample
-```
 
-If you have previously loaded in this data, you can wipe your database 100% clean with:
+1.Users or Prospective Users can login or register if not signed up. 
+2.They can add new stores and edit already existing ones created by them.
+3.Google Maps API should help them find restaurants they'd like to add here easily.
+4.They can can choose to review stores. 
+5.Also can choose to mark some stores as favorites and view later
+6.Should be able to find restaurants using the search feature and also locate available restaurants within a city specified on the map area.
 
-```bash
-npm run blowitallaway
-```
+### Technologies
+---
 
-That will populate 16 stores with 3 authors and 41 reviews. The logins for the authors are as follows:
+HTML, CSS, JAVASCRIPT
+PUG, NODE JS EXPRESS, MONGO DB etc.
 
-|Name|Email (login)|Password|
-|---|---|---|
-|Wes Bos|wes@example.com|wes|
-|Debbie Downer|debbie@example.com|debbie|
-|Beau|beau@example.com|beau|
+Check out the live version [here](https://marvellous-loves-snacks-meyijlldlm.now.sh/)
+
+
 
 
