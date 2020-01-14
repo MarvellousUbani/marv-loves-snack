@@ -17,9 +17,7 @@ _A Restaurant App Built in Node JS._
 
 ### Technologies
 ---
-
-HTML, CSS, JAVASCRIPT
-PUG, NODE JS EXPRESS, MONGO DB etc.
+> Html, Css, Javascript, Pug, Node JS, Express, Mongo DB etc.
 
 Check out the live version [here](https://marvellous-loves-snacks-meyijlldlm.now.sh/)
 
