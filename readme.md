@@ -2,7 +2,8 @@
 ---
 
 
-_A Restaurant App Built in Node JS._
+A Restaurant App Built in Node JS.
+
 
 ### More About
 ---
