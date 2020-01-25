@@ -22,6 +22,8 @@ A Restaurant App Built in Node JS.
 
 Check out the live version [here](https://marvellous-loves-snacks-meyijlldlm.now.sh/)
 
+### Contributors
+
 
 
 
